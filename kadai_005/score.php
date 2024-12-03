@@ -20,8 +20,8 @@
      $score9 = 30;
      $score10 = 60;
     
-     $score_total = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10
-     $score_average = $score_total / 10 ;
+     $score_total = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
+     $score_average = $score_total / 10;
          
      echo $score_average;
      ?>
